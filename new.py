@@ -1,1 +1,1 @@
-print ("Hi-hi-hi")
+print ("Huhuhu")
